@@ -1,0 +1,16 @@
+*.log 
+output.exe
+output.out
+*.properties
+!example.properties
+/docs.md
+
+
+
+
+ 
+
+
+
+
+
