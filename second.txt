@@ -1,2 +1,3 @@
 this is my second file
 new line added in 2nd.txt
+modified for diff command
